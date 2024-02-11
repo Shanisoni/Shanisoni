@@ -1,4 +1,7 @@
-<h1 align="center">Hi there👋, I'm Shani Soni</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!👋&height=100&section=header"/>
+</p>
+
 <div align="center"> <img src="https://raw.githubusercontent.com/Shanisoni/Shanisoni/main/Blue Geometric Technology LinkedIn Banner.png"> </div>
 <h3 align="center">A passionate Full Stack Web Developer from Ghaziabad,India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanisoni&label=Profile%20views&color=0e75b6&style=flat" alt="shanisoni" /> </p>
