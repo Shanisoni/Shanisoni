@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!👋&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!👋&height=130&section=header"/>
 </p>
 
 <div align="center"> <img src="https://raw.githubusercontent.com/Shanisoni/Shanisoni/main/Blue Geometric Technology LinkedIn Banner.png"> </div>
@@ -45,12 +45,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanisoni&show_icons=true&locale=en&layout=compact" alt="shanisoni" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanisoni&" alt="shanisoni" /></p>  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanisoni&show_icons=true&locale=en" alt="shanisoni" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanisoni&" alt="shanisoni" /></p>
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanisoni&show_icons=true&locale=en&layout=compact" alt="shanisoni" /></p>
 
