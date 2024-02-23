@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!👋&height=130&section=header"/>
-</p>
+
 
 <div align="center"> <img src="https://raw.githubusercontent.com/Shanisoni/Shanisoni/main/Blue Geometric Technology LinkedIn Banner.png"> </div>
 <h3 align="center">A passionate Full Stack Web Developer from Ghaziabad,India</h3>
