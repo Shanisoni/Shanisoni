@@ -13,16 +13,16 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
-
-- - 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast.
+-    Hardcore DSA Lover ❤
+-  👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👯 I’m looking to collaborate on **Web Development Project Idea's**
 
 - 👨‍🏫 Mentor on @Topmate
 
 - 👁‍🗨 What's Special about me? <br> 
-Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
+- Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 
 - 📘 I’m Currently Studying **New Tech Stack for Expanding My Skills set and Knowledge**
 
