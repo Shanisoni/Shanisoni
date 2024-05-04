@@ -21,8 +21,8 @@
 
 - ⚡ Fun fact **I think I am Handsome(True)**
 
-# Connect with me
-<p align="left">
+## Connect with me
+<p align="center">
 <a href="https://codepen.io/@shani-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shani-soni" height="30" width="40" /></a>
 <a href="https://twitter.com/shani_soni__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shani_soni__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shani-soni-b45850184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shani-soni-b45850184" height="30" width="40" /></a>
@@ -36,15 +36,18 @@
 </p>
 <br/>
 
-# All DSA Badges @LeetCode
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="40px"></img>
+## All DSA Badges @LeetCode
+<p align="center">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="60px" style="margin-right: 50px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="60px">
+</p>
 
-<br/>
+
+
 
 
 
