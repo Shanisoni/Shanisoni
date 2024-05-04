@@ -45,18 +45,20 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Shani Soni's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shanisoni&theme=github-compact&area=true&bg_color=ffff&color=000)
-
-
+      
 
 
 
 
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+ 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanisoni&" alt="shanisoni" /></p>  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanisoni&show_icons=true&locale=en" alt="shanisoni" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanisoni&show_icons=true&locale=en&layout=compact" alt="shanisoni" /></p>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=500&section=footer"/>
+</p>
+
+
 
 
