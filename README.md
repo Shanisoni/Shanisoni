@@ -34,6 +34,17 @@
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@shanisoni7084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@shanisoni7084" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shaniso5a2g/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shaniso5a2g/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 </p>
+<br/>
+
+# All DSA Badges @LeetCode
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="40px"></img>
+
+<br/>
 
 
 
@@ -45,19 +56,30 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Shani Soni's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shanisoni&theme=github-compact&area=true&bg_color=ffff&color=000)
+
+
       
 
-
-
-
+## 📊 My Github Stats
+<p align="center">
+<a href="https://github.com/Shanisoni/github-readme-stats"><img alt="Shani soni Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shanisoni&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://https://github.com/Shanisoni/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shani soni streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shanisoni&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
   
  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanisoni&" alt="shanisoni" /></p>  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanisoni&show_icons=true&locale=en" alt="shanisoni" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanisoni&show_icons=true&locale=en&layout=compact" alt="shanisoni" /></p>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=500&section=footer"/>
+<p align="center">
+   
 </p>
+<p align="center">
+ <a href="https://github.com/Shanisoni/github-readme-stats"><img alt="Shanisoni" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanisoni&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ </p>
+
+
+
+
 
 
 
