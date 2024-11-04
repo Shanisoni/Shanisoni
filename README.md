@@ -58,6 +58,12 @@
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="60px" style="margin-right: 10px;">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="60px" style="margin-right: 10px;">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="60px">
+    <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="60px" style="margin-right: 10px;">
+    
+   
 </p>
 
 
