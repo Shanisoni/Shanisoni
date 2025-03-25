@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/shani_soni__" target="blank"><img src="https://img.shields.io/twitter/follow/shani_soni__?logo=twitter&style=for-the-badge" alt="shani_soni__" /></a> </p>
 
-- 🔭 I’m currently working on **Front-end Projects**
+- 🔭 I’m currently working on **Full-Stack Projects**
 
 - 🌱 I’m currently learning **React**
 
