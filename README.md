@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning **React!**
 
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast.
-- 
 -    Hardcore DSA Lover ❤
 -  👯 I’m looking to collaborate on **OpenSource Projects**
 
