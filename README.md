@@ -104,7 +104,33 @@
     <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="60px" style="margin-right: 10px;">
     <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="60px" style="margin-right: 10px;">
     <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/500.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="60px" style="margin-right: 10px;">  
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-05.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-04.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-03.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-02.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-01.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="60px">
     
+<!-- Additional Earned Badges -->
+<div align="center">
+ 
+  
+  <!-- Remaining 2024 Monthly Badges -->
+<!--   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-12.gif" width="60px" style="margin-right: 10px;">
+<!--   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" width="60px" style="margin-right: 10px;"> -->
+<!--   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="60px" style="margin-right: 10px;"> -->
+<!--   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="60px" style="margin-right: 10px;"> -->
+<!--   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="60px" style="margin-right: 10px;"> -->
+ 
+</div>
+
+
+
+
+
    
 </p>
 
