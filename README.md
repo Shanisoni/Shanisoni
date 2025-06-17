@@ -3,6 +3,30 @@
 
 <div align="center"> <img src="https://github.com/Shanisoni/Shanisoni/blob/main/1.png"> </div>
 <h3 align="center">A passionate Full Stack Web Developer </h3>
+
+<p align="center">  
+    <a href="https://www.youtube.com/@shanisoni8886" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Prince Singh" />
+ </a> 
+ <a href="https://www.linkedin.com/in/shanisoni/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Prince Singh"/>
+ </a>
+ <a href="https://github.com/Shanisoni" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PrinceSinghhub" />
+ </a>
+ <a href="https://x.com/shani_soni__" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/shani_soni__/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Prince Singh" />
+ </a> 
+    <a href="https://topmate.io/shani_soni" target="blank">
+  <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
+ </a>
+   <a href="mailto:shanisoni7084@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Prince Singh" />
+ </a> 
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanisoni&label=Profile%20views&color=0e75b6&style=flat" alt="shanisoni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanisoni" alt="shanisoni" /></a> </p>
