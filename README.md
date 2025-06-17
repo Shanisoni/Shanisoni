@@ -1,10 +1,8 @@
 
 
 
-<div align="center"> <img src="https://github.com/Shanisoni/Shanisoni/blob/main/1.png"> </div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Shani+%F0%9F%91%8B;Software+Developer;Problem+Solver" alt="Headline" />
-</div>
+<div align="center"> <img src="https://github.com/Shanisoni/Shanisoni/blob/main/1.png">&nbsp;&nbsp;</div>
+
 
 
 
@@ -33,7 +31,9 @@
 </p>
 
 
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Shani+%F0%9F%91%8B;Software+Developer;Problem+Solver" alt="Headline" />
+</div>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanisoni" alt="shanisoni" /></a> </p>
