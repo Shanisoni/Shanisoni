@@ -5,34 +5,46 @@
 <h3 align="center">A passionate Full Stack Web Developer </h3>
 
 <p align="center">  
-    <a href="https://www.youtube.com/@shanisoni8886" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Prince Singh" />
+<a href="https://www.youtube.com/@shanisoni8886" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Shani Soni" />
  </a> 
  <a href="https://www.linkedin.com/in/shanisoni/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Prince Singh"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shani Soni"/>
  </a>
  <a href="https://github.com/Shanisoni" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PrinceSinghhub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Shani Soni" />
  </a>
  <a href="https://x.com/shani_soni__" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/shani_soni__/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Prince Singh" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Shani Soni" />
  </a> 
     <a href="https://topmate.io/shani_soni" target="blank">
   <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
  </a>
    <a href="mailto:shanisoni7084@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Prince Singh" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Shani Soni" />
  </a> 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanisoni&label=Profile%20views&color=0e75b6&style=flat" alt="shanisoni" /> </p>
+
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanisoni" alt="shanisoni" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <a href="https://twitter.com/shani_soni__" target="blank"><img src="https://img.shields.io/twitter/follow/shani_soni__?logo=twitter&style=for-the-badge" alt="shani_soni__" /></a> </p>
+<p align="left">
+<!--   <a href="https://twitter.com/shani_soni__" target="_blank"> -->
+<!--     <img src="https://img.shields.io/twitter/follow/shani_soni__?logo=twitter&style=for-the-badge" alt="Twitter Badge" /> -->
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shanisoni&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Shanisoni?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Shanisoni?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on **Full-Stack Projects**
 
