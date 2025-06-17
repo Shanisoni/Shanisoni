@@ -1,7 +1,7 @@
 
 
 
-<div align="center"> <img src="https://github.com/Shanisoni/Shanisoni/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner(1)33.png"> </div>
+<div align="center"> <img src="https://github.com/Shanisoni/Shanisoni/blob/main/1.png"> </div>
 <h3 align="center">A passionate Full Stack Web Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanisoni&label=Profile%20views&color=0e75b6&style=flat" alt="shanisoni" /> </p>
 
