@@ -34,10 +34,28 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Shani+%F0%9F%91%8B;Software+Developer;Problem+Solver" alt="Headline" />
 </div>
-
-##
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanisoni" alt="shanisoni" /></a> </p>
+
+
+
+---
+## ⭐ Key Highlights 🎉
+
+| 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
+|------------------------------------|----------------------------------------|
+| 💥 75DaysHardPlacementChallenge  | ⭐ 400+ Students Guide for Placements and DSA and CP and Development | 
+| 💥 600DaysOfCode+ on @LeetCode  |  ⭐ Winner #geekstreak2024 21-Day Challenge Winner @GFG |
+| 💥 555DaysOfCode+ on @GeeksForGeeks |  ⭐ DSA & DEV Mentor on @TopMate |
+| 💥 570DaysOfCode+ on @CodeStudio | ⭐ 10.5K+ Total Followers on LinkedIn, X, Youtube, Github, Community |
+| 💥 160DaysOfChallenge+ on @GeeksForGeeks | ⭐ 1M+ Views on LinkedIn |
+
+---
+
+
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
 
 
 <p align="left" style="margin:0; padding:0;">
@@ -48,6 +66,7 @@
     <img src="https://img.shields.io/github/followers/Shanisoni?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
+
 
 
 
