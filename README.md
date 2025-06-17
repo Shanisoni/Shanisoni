@@ -89,7 +89,87 @@
 </p>
 <br/>
 
-## All DSA Badges @LeetCode
+
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Use To Code</b> 💻
+
+
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>React</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" /><br>Next.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" /><br>Bootstrap</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="55" height="55" /><br>Redis</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
+<!--     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td> -->
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" /><br>C</td>
+<!--     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs" width="55" height="55" /><br>C#</td> -->
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" /><br>.NET</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=azure" width="55" height="55" /><br>Azure</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" /><br>Jenkins</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" /><br>Kubernetes</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" /><br>Terraform</td>
+  </tr>
+<tr>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/linux-yellow" width="55" height="55" /><br>Linux
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/reactquery-pink" width="55" height="55" /><br>React Query
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/openai-blue" width="55" height="55" /><br>OpenAI
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/gitlabactions-orange" width="55" height="55" /><br>GitLab Actions
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/githubcopilot-blue" width="55" height="55" /><br>GitHub Copilot
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/selenium-darkblue" width="55" height="55" /><br>Selenium
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/grafana-orange" width="55" height="55" /><br>Grafana
+  </td>
+  <td align="center" width="90">
+    <img src="https://img.shields.io/badge/prometheus-red" width="55" height="55" /><br>Prometheus
+  </td>
+</tr>
+
+</table>
+
+
+
+##
+<!-- Animated Sky Blue Text -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=87CEEB&width=500&background=FFFFFF00&lines=🔥+All+DSA+Badges+@LeetCode" 
+     alt="All DSA Badges Typing" 
+     style="border: 1px solid white;" />
+<!-- Bold Underline with Less Space -->
 <p align="center">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="60px" style="margin-right: 50px;">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="60px" style="margin-right: 50px;">
@@ -113,38 +193,8 @@
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-02.gif" width="60px" style="margin-right: 10px;">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-01.gif" width="60px" style="margin-right: 10px;">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="60px">
-    
-<!-- Additional Earned Badges -->
-<div align="center">
- 
-  
-  <!-- Remaining 2024 Monthly Badges -->
-<!--   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-12.gif" width="60px" style="margin-right: 10px;">
-<!--   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" width="60px" style="margin-right: 10px;"> -->
-<!--   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="60px" style="margin-right: 10px;"> -->
-<!--   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="60px" style="margin-right: 10px;"> -->
-<!--   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="60px" style="margin-right: 10px;"> -->
- 
-</div>
-
-
-
-
-
-   
 </p>
 
-
-
-
-
-
-
-
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Shani Soni's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shanisoni&theme=github-compact&area=true&bg_color=ffff&color=000)
 
