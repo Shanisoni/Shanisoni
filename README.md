@@ -170,9 +170,12 @@
 
 ##
 <!-- Animated Sky Blue Text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=87CEEB&width=500&background=FFFFFF00&lines=🔥+All+DSA+Badges+@LeetCode" 
-     alt="All DSA Badges Typing" 
-     style="border: 1px solid white;" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=00FF00&width=500&background=FFFFFF00&lines=🔥+All+DSA+Badges+@LeetCode" 
+       alt="All DSA Badges Typing" 
+       style="border: 1px solid white;" />
+</p>
+
 <!-- Bold Underline with Less Space -->
 <p align="center">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="60px" style="margin-right: 50px;">
