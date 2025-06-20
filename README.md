@@ -73,17 +73,11 @@
 
 
 - 🔭 I’m currently working on **Full-Stack Projects**
-
 - 🌱 I’m currently learning **DevOps!**
-
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast.
--    Hardcore DSA Lover ❤
 -  👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 👯 I’m looking to collaborate on **Web Development Project Idea's**
-
 - 👨‍🏫 Mentor on @Topmate
-
 - 👁‍🗨 What's Special about me? <br> 
 - Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 
