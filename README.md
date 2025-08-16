@@ -1,5 +1,3 @@
-
-
 <div align="center"> <img src="https://github.com/Shanisoni/Shanisoni/blob/main/1.png">&nbsp;&nbsp;</div>
 
 <p align="center">  
